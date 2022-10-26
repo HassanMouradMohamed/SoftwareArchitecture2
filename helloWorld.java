@@ -1,3 +1,3 @@
 class main{
-    system.out.print("7mada");
+    system.out.print("btngana");
 }
